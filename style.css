@@ -1,0 +1,13 @@
+#xotable {
+    width: 300px;
+    margin:20px auto;
+}
+
+#xotable td {
+    height: 100px;
+    width: 100px;
+    color: blue;
+    font-size: 60px;
+    text-align: center;
+
+}
